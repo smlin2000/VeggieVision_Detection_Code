@@ -2,6 +2,11 @@
 
 https://github.com/user-attachments/assets/7fdc40d7-3341-46c6-8d8a-6a5b74b37168
 
+## Links
+
+* **Dataset (Zip File):** [Google Drive Link](https://drive.google.com/file/d/1gh45LaWQiIdfAwP6mkHSnf4-eVR3eRey/view?usp=sharing)
+* **Pretrained Weights (Example):** [Google Drive Link](https://drive.google.com/drive/folders/1A0hT3nWyXW8v9qHJvXDUGcWWZQl4K9uU?usp=sharing)
+
 ## Setup
 
 Follow these steps to set up the necessary environment.
@@ -84,3 +89,14 @@ The `inference.py` script uses the trained weights (`best.pt`) to run object det
 ## Utilities (`utils.py`)
 
 This file contains helper functions used by `train.py` for tasks like unzipping datasets and finding configuration files like data.yaml.
+
+## Licenses and Acknowledgements
+
+This project utilizes the following libraries and services:
+
+* **Ultralytics YOLOv8:** The core object detection model and library used in this project.
+    * License: AGPL-3.0 ([License Text](https://www.gnu.org/licenses/agpl-3.0.en.html)). Note that use in distributed or network-accessible applications may require open-sourcing your project under AGPL-3.0 unless an Enterprise License is obtained from Ultralytics ([Ultralytics Licensing](https://www.ultralytics.com/license)).
+    * Website: [https://ultralytics.com/](https://ultralytics.com/)
+
+* **Roboflow:** Used for dataset labeling, management, and augmentation.
+    * Website: [https://roboflow.com/](https://roboflow.com/)

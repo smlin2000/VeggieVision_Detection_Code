@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/7fdc40d7-3341-46c6-8d8a-6a5b74b37168
 ## Links
 
 * **Dataset (Zip File):** [Google Drive Link](https://drive.google.com/file/d/1gh45LaWQiIdfAwP6mkHSnf4-eVR3eRey/view?usp=sharing)
-* **Pretrained Weights (Example):** [Google Drive Link](https://drive.google.com/drive/folders/1A0hT3nWyXW8v9qHJvXDUGcWWZQl4K9uU?usp=sharing)
+* **Pretrained Weights:** [Google Drive Link](https://drive.google.com/drive/folders/1A0hT3nWyXW8v9qHJvXDUGcWWZQl4K9uU?usp=sharing)
 
 ## Setup
 

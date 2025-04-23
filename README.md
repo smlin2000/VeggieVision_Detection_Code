@@ -79,7 +79,7 @@ The `inference.py` script uses the trained weights (`best.pt`) to run object det
             --conf-thres 0.4
         ```
 
-    * **`--weights`**: **(Required)** Path to the trained `.pt` weights file. Use the relative path `../weights/best.pt` if running from within an `inference` subfolder.
+    * **`--weights`**: **(Required)** Path to the trained `.pt` weights file.
     * **`--source`**: **(Required)** Path to the input image, video file, directory, or pattern (e.g., `'images/*.jpg'`).
     * **`--output-dir`**: (Optional) Directory where results (annotated images/videos, label files) will be saved (inside a `predictions` subdirectory).
     * **`--conf-thres`**: (Optional) Confidence threshold for detections.
